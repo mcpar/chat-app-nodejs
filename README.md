@@ -7,7 +7,7 @@ A simple web chat based on socket.io and Node.js
 - [Node.js](https://nodejs.org/en/download/) - JavaScript runtime Server
 - [Express.js](https://expressjs.com/) - Web framework
 - [HandleBars](https://handlebarsjs.com/) - View Engine
-- [Socke.io](https://handlebarsjs.com/) - Real Time Engine based on WebSockets
+- [Socket.io](https://socket.io/) - Real Time Engine based on WebSockets
 - [Bulma](https://bulma.io/) - CSS framework.
 
 ### Setup
